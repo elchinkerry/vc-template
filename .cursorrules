@@ -1,0 +1,24 @@
+# IZI SAAS KIT AI RULES
+
+Always read `GEMINI.md` before starting any work. This file contains the core philosophy and architecture of the project.
+
+## AI Project Context
+- **Framework**: Next.js 15 (App Router)
+- **Styling**: Tailwind CSS v4 + shadcn/ui
+- **Database**: Supabase
+- **Icons**: Lucide React
+
+## AI Skills Usage
+This project uses specialized skills located in `.agent/skills/`. 
+Before performing a task, check if a relevant skill exists:
+1. Search for skills in `.agent/skills/`.
+2. Read the `SKILL.md` of the relevant skill.
+3. Follow the instructions and scripts provided in the skill folder.
+
+## Rule Categories
+- **Planning**: Always create or update an implementation plan and get approval before executing.
+- **Git Discipline**: Ensure logical, clean commits.
+- **Code Standards**: Follow the "Izi SaaS Kit" aesthetic: simple, modular, and visually premium.
+
+## Design Rules
+

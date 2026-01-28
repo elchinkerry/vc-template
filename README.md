@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ⚡️ Izi SaaS Kit
 
-## Getting Started
+**Izi SaaS Kit** is a high-performance, visually premium SaaS starter engine designed for **Vibe Coding**. Build startups easily and at the speed of thought.
 
-First, run the development server:
+[📖 Template Usage Guide](./TEMPLATE_USAGE.md)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Tech Stack
+- **Framework**: [Next.js 15](https://nextjs.org/) (App Router)
+- **CSS**: [Tailwind CSS v4](https://tailwindcss.com/)
+- **Database/Auth**: [Supabase](https://supabase.com/)
+- **UI Components**: [shadcn/ui](https://ui.shadcn.com/)
+- **Icons**: [Lucide React](https://lucide.dev/)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🧠 AI-First Workflow
+This repository is optimized for AI pair-programming. It includes a custom AI Agent structure:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### AI Skills (`.agent/skills/`)
+Each directory in `.agent/skills/` contains a specialized "skill" that the AI uses to solve complex problems:
+- `ui-ux-pro-max`: Advanced design intelligence and consistency rules.
+- `superpowers/`: Specialized engineering workflows (TDD, Debugging, etc.).
+- `template/`: Use this as a base to create new AI skills.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### How to use with AI
+When working with an AI assistant (Cursor, Windsurf, etc.), it will automatically pick up the rules in `.cursorrules` and `GEMINI.md` to guide its behavior.
 
-## Learn More
+## 🛠 Getting Started
+1. Configure your project in `izi.config.ts`.
+2. Set up your Supabase environment variables.
+3. Run `npm install` and `npm run dev`.
 
-To learn more about Next.js, take a look at the following resources:
+## 📜 Philosophy
+- **Vibe over boilerplate**: Skip the setup, focus on the feel.
+- **Premium default**: Everything looks expensive right out of the box.
+- **Modularity**: Small files, clear interfaces, no magic.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+Built by [Elchin Kerry](https://github.com/elchinkerry) for the next generation of founders.
