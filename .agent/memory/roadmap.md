@@ -5,7 +5,7 @@
 
 ### 📅 DAY 1: Skeleton & Deploy (Status: ACTIVE)
 - [x] Clone/Setup SaaS Template
-- [x] Config `izi.config.ts`
+- [x] Config `saas.config.ts`
 - [ ] Setup Supabase (Auth + DB)
 - [ ] Deploy to Vercel
 

@@ -14,7 +14,7 @@
 
 3.  **Rename Project**:
     - Update `name` in `package.json`.
-    - Update `izi.config.ts`.
+    - Update `saas.config.ts`.
     - Create `.env.local` from example.
 
 4.  **Updates**:
@@ -30,7 +30,7 @@ Use these prompts to kickstart your project with **Antigravity** (Gemini):
 > Description: **[Short description of your idea]**.
 > 
 > Please:
-> 1. Analyze the `izi.config.ts` and propose changes for this idea.
+> 1. Analyze the `saas.config.ts` and propose changes for this idea.
 > 2. Create a `task.md` with a plan to transform this template into the MVP.
 > 3. Suggest the necessary Supabase tables."
 
@@ -38,7 +38,7 @@ Use these prompts to kickstart your project with **Antigravity** (Gemini):
 > "I need to add **[Feature Name, e.g., Blog]** to this project.
 > We are using Next.js 15, Tailwind v4, and shadcn/ui.
 > 
-> 1. Check if `izi.config.ts` needs a feature flag.
+> 1. Check if `saas.config.ts` needs a feature flag.
 > 2. Create the necessary files in `src/app`.
 > 3. Update the navigation in config."
 

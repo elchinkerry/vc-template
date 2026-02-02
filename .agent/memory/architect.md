@@ -10,7 +10,7 @@
 - `src/app`: Page routes and layouts.
 - `src/components`: UI components (shadcn + custom).
 - `src/lib`: Shared utilities, Supabase client.
-- `src/izi.config.ts`: Global configuration.
+- `src/saas.config.ts`: Global configuration.
 
 ## Architectural Rules
 1. **Server Components by Default**: Use `'use client'` only for interactive elements.

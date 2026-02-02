@@ -1,4 +1,4 @@
-# 🌍 IZI SAAS KIT GLOBAL PROTOCOLS
+# 🌍 SAAS TEMPLATE GLOBAL PROTOCOLS
 
 These rules apply to all development activities within the Vibe Kit ecosystem.
 

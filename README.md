@@ -24,7 +24,7 @@ Each directory in `.agent/skills/` contains a specialized "skill" that the AI us
 When working with an AI assistant (Cursor, Windsurf, etc.), it will automatically pick up the rules in `.cursorrules` and `GEMINI.md` to guide its behavior.
 
 ## 🛠 Getting Started
-1. Configure your project in `izi.config.ts`.
+1. Configure your project in `saas.config.ts`.
 2. Set up your Supabase environment variables.
 3. Run `npm install` and `npm run dev`.
 

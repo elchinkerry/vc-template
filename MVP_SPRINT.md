@@ -13,12 +13,12 @@ We are executing a "Vibe Coding" sprint.
 **Focus:** Infrastructure, Config, Auth.
 
 *   **Task 1:** Clone SaaS Template.
-*   **Task 2:** Configure `izi.config.ts` (Set App Name, Theme, Description).
+*   **Task 2:** Configure `saas.config.ts` (Set App Name, Theme, Description).
 *   **Task 3:** Setup Supabase Project (Database + Auth).
 *   **Task 4:** **DEPLOY TO VERCEL.** (Must happen on Day 1).
 
 > **Agent Prompt:**
-> "Initialize the project based on `izi.config.ts`. Connect Supabase Auth using the 'Magic Link' method (simplest). Deploy to Vercel and verify the live URL. Do not build UI yet, just the plumbing."
+> "Initialize the project based on `saas.config.ts`. Connect Supabase Auth using the 'Magic Link' method (simplest). Deploy to Vercel and verify the live URL. Do not build UI yet, just the plumbing."
 
 ---
 
