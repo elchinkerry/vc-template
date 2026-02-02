@@ -25,7 +25,7 @@
 Use these prompts to kickstart your project with **Antigravity** (Gemini):
 
 ### 1. New Project Kickoff
-> "I have cloned the **Izi SaaS Kit**.
+> "I have cloned the **SaaS Template**.
 > My new project is called **[Project Name]**.
 > Description: **[Short description of your idea]**.
 > 
@@ -44,7 +44,7 @@ Use these prompts to kickstart your project with **Antigravity** (Gemini):
 
 ### 3. UI/UX Polish
 > "Review the current page **[URL or Path]**.
-> Apply the **'Izi SaaS Kit'** aesthetic:
+> Apply the **'SaaS Template'** aesthetic:
 > - Make it look premium and expensive.
 > - Add micro-animations (framer-motion).
 > - Clean up the spacing and typography."

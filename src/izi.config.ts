@@ -1,12 +1,12 @@
 
 export const siteConfig = {
-  name: "Izi SaaS Kit",
+  name: "SaaS Template",
   description: "The high-performance SaaS starter for vibe coding.",
-  url: "https://izisaaskit.com",
-  ogImage: "https://izisaaskit.com/og.jpg",
+  url: "https://saastemplate.com",
+  ogImage: "https://saastemplate.com/og.jpg",
   links: {
     twitter: "https://twitter.com/elchinkerry",
-    github: "https://github.com/elchinkerry/izi-saas-kit",
+    github: "https://github.com/elchinkerry/vc-template",
   },
 }
 

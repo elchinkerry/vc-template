@@ -4,7 +4,7 @@
 **Goal**: Ship a working, sellable MVP.
 
 ### 📅 DAY 1: Skeleton & Deploy (Status: ACTIVE)
-- [x] Clone/Setup Izi SaaS Kit
+- [x] Clone/Setup SaaS Template
 - [x] Config `izi.config.ts`
 - [ ] Setup Supabase (Auth + DB)
 - [ ] Deploy to Vercel

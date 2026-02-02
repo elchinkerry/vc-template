@@ -1,6 +1,6 @@
-# ⚡️ Izi SaaS Kit
+# ⚡️ SaaS Template
 
-**Izi SaaS Kit** is a high-performance, visually premium SaaS starter engine designed for **Vibe Coding**. Build startups easily and at the speed of thought.
+**SaaS Template** is a high-performance, visually premium SaaS starter engine designed for **Vibe Coding**. Build startups easily and at the speed of thought.
 
 [📖 Template Usage Guide](./TEMPLATE_USAGE.md)
 

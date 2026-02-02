@@ -3,7 +3,7 @@
 **Context for Agent:**
 We are executing a "Vibe Coding" sprint.
 *   **Goal:** A working, sellable MVP in 7 days.
-*   **Stack:** Izi SaaS Kit (Next.js 15, Tailwind, Supabase).
+*   **Stack:** SaaS Template (Next.js 15, Tailwind, Supabase).
 *   **Rule:** If a feature takes >4 hours to build, we cut it. **Simplicity is the feature.**
 
 ---
@@ -12,7 +12,7 @@ We are executing a "Vibe Coding" sprint.
 **Goal:** Hello World in Production.
 **Focus:** Infrastructure, Config, Auth.
 
-*   **Task 1:** Clone Izi SaaS Kit.
+*   **Task 1:** Clone SaaS Template.
 *   **Task 2:** Configure `izi.config.ts` (Set App Name, Theme, Description).
 *   **Task 3:** Setup Supabase Project (Database + Auth).
 *   **Task 4:** **DEPLOY TO VERCEL.** (Must happen on Day 1).
@@ -32,7 +32,7 @@ We are executing a "Vibe Coding" sprint.
 *   **Task 4:** Add a "Waitlist/Signup" button that leads to Auth.
 
 > **Agent Prompt:**
-> "Build the Landing Page using izi-blocks. Use the 'Glass' theme settings. Ensure the MobileDock is visible on small screens. The 'Get Started' button must redirect to /login."
+> "Build the Landing Page using SaaS Template blocks. Use the 'Glass' theme settings. Ensure the MobileDock is visible on small screens. The 'Get Started' button must redirect to /login."
 
 ---
 
