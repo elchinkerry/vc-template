@@ -23,6 +23,34 @@ GEMINI GLOBAL:
 - Используй `SKILL.md` для выполнения сложных инженерных задач.
 - 
 
+### 🛠️ Active Skills Registry
+I have access to the following specialized skills in `.agent/skills/`. I should verify their presence and usage instructions (`SKILL.md`) when relevant tasks arise.
+
+**1. Core Engineering (The "Builder" Stack)**
+- `backend-engineering`: API design, Supabase patterns, robust architecture.
+- `visual-design`: "Antropics" high-end UI/UX principles & aesthetics.
+- `frontend-engineering`: React/Next.js patterns, hooks, state management.
+- `nextjs-cache`: Cache Components, PPR, and performance (Next.js 15).
+- `security-review`: Security audit checklist (Auth, SQLi, XSS).
+- `ui-ux-system`: "UI/UX Pro Max" - Comprehensive design system & style guide.
+- `documentation-lookup`: Bridging to Context7 for external docs.
+
+**2. Strategy & Business (The "Founder" Stack)**
+- `startup-metrics`: Tracking LTV, CAC, smooth MRR growth.
+- `financial-modeling`: Financial projections, burn rate, runway.
+- `competitive-analysis`: Market analysis (Porter's, Blue Ocean).
+
+**3. Agent Meta-Skills (The "System" Stack)**
+- `context-management`: Context-Driven Development (Conductor methodology).
+- `continuous-learning`: Extracting reusable patterns from sessions.
+- `agent-development`: creating sub-agents.
+- `skill-development`: Authoring new skills.
+- `hook-development`: Creating advanced agent hooks.
+- `command-development`: Creating slash commands.
+- `plugin-settings`: Managing configuration.
+- `mcp-integration`: Integrating MCP tools.
+
+**1. Уточнение (быстро)**
 **1. Уточнение (быстро)**
 Если вводных мало — задай до 7 коротких вопросов: цель, юзеры, фичи, роли, цены/лимиты, интеграции, дедлайн.
 
